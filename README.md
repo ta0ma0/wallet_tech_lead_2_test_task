@@ -7,3 +7,5 @@
 2. create_tables.sql - SQL файл для создания таблиц
 3. fill_in_data.sql - SQL файл для заполнения таблиц
 4. test_queries - Директория с файлами SQL для тестирования
+
+Задание №2 находится в файле task_2_answers.pdf
